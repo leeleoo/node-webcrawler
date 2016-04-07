@@ -51,6 +51,9 @@ exec.modal = function (_data) {
                 saveDir: ko.observable(data.saveDir),
                 imageFn: ko.observable(data.imageFn),
                 levels: ko.observableArray(data.levels),
+	              urlSupplement:ko.observable(data.urlSupplement),
+		            category:ko.observable(data.category),
+		            appNumber:ko.observable(data.appNumber),
                 remove: function (index) {
                     self.viewmodel.levels.splice(index, 1);
                 }
@@ -241,10 +244,11 @@ function validation(model) {
         url: '页面地址',
         type: '爬取类型',
         page: '网址类型',
-        path: '存储路径'
+        path: '存储路径',
+	      
     };
     for (var i in model) {
-        if (!/^(charset)|(remove)|(imageFn)$/.test(i)) {
+        if (!/^(charset)|(remove)|(imageFn)|(urlSupplement)|(category)|(appNumber)$/.test(i)) {
             if ('levels' === i) {
                 for (var j = 0, len = model[i].length; j < len; j++) {
                     if ($.trim(model[i][j].selector) === '') {

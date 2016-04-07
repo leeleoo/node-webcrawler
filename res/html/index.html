@@ -63,6 +63,9 @@
                 <label class="am-radio-inline">
                     <input type="radio" value="text" name="type" data-bind="checked:type"> 文本
                 </label>
+                <label class="am-radio-inline">
+                    <input type="radio" value="new" name="type" data-bind="checked:type"> 资讯
+                </label>
             </span>
         </div>
         <div class="am-input-group am-input-group-sm margin-tb-5">
@@ -96,6 +99,18 @@
         <div class="am-input-group am-input-group-sm margin-tb-5">
             <span class="am-input-group-label">图片地址处理</span>
             <input type="text" class="am-form-field"  placeholder="此项可不填" data-bind="textinput:imageFn" data-tip="对抓取到的图片地址进行二次处理，如：<br>抓取到的图片地址为http://xxx.com/small/123.jpg，<br>此地址为小图，而大图的地址为http://xxx.com/big/123.jpg，<br>此时可设置参数为：function(url){return url.replace('small', 'big');}">
+        </div>
+        <div class="am-input-group am-input-group-sm margin-tb-5">
+            <span class="am-input-group-label">目标地址补充</span>
+            <input type="text" class="am-form-field"  placeholder="此项可不填" data-bind="textinput:urlSupplement" data-tip="如果目标属性的值没有域名则在这里补充">
+        </div>
+        <div class="am-input-group am-input-group-sm margin-tb-5">
+            <span class="am-input-group-label">类别</span>
+            <input type="text" class="am-form-field"  placeholder="此项可不填" data-bind="textinput:category" data-tip="nid? pid?">
+        </div>
+        <div class="am-input-group am-input-group-sm margin-tb-5">
+            <span class="am-input-group-label">appNumber</span>
+            <input type="text" class="am-form-field"  placeholder="此项可不填" data-bind="textinput:appNumber" data-tip="appNumber">
         </div>
         <ul class="am-list config-add" data-bind="foreach:levels">
             <li>
