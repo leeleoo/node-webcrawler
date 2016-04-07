@@ -1,0 +1,1 @@
+{"url":"http://www.91dyzx.com/","type":"text","from":"1","to":"1","charset":"gb2312","saveDir":"text","category":"123","appNumber":"test","selector":[{"$":"$('#video_bCon_10 a')","attr":"href"},{"$":"$('#main_nr strong')","attr":"tt"}],"isPagination":1,"mode":"web"}
