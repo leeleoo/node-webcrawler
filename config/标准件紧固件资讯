@@ -1,0 +1,1 @@
+{"url":"http://www.1198jgj.com/news/xingyezixun-c33001-1.html","type":"new","from":"1","to":"1","saveDir":"null","category":"55","appNumber":"standard","selector":[{"$":"$('.cldl dt a')","attr":"href"},{"$":"$('#content')","attr":"null"}],"isPagination":1,"mode":"web"}
