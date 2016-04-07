@@ -248,7 +248,7 @@ function validation(model) {
 	      
     };
     for (var i in model) {
-        if (!/^(charset)|(remove)|(imageFn)|(urlSupplement)|(category)|(appNumber)$/.test(i)) {
+        if (!/^(charset)|(remove)|(imageFn)|(urlSupplement)|(category)|(appNumber)|(saveDir)$/.test(i)) {
             if ('levels' === i) {
                 for (var j = 0, len = model[i].length; j < len; j++) {
                     if ($.trim(model[i][j].selector) === '') {
