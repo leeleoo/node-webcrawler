@@ -1,0 +1,1 @@
+{"url":"http://www.zhms.cn/Subject/jiankang/","type":"new","from":"1","to":"1","charset":"gb2312","urlSupplement":"http://www.zhms.cn","category":"105","appNumber":"chinafood","selector":[{"$":"$(\".caipu_list li .cai_name a\")","attr":"href"},{"$":"$('.vclt-con')","attr":"sdf"}],"isPagination":1,"mode":"web"}
