@@ -1,0 +1,1 @@
+{"url":"http://www.hnscw.roboo.com/web/news/524606.htm","type":"new","from":"1","to":"1","charset":"","saveDir":"ss","urlSupplement":"http://www.hnscw.roboo.com/","category":"84","appNumber":"hn","selector":[{"$":"$('.news a')","attr":"href"},{"$":"$('.pdetail p')","attr":"href"}],"isPagination":1,"mode":"web"}

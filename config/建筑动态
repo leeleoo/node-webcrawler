@@ -1,0 +1,1 @@
+{"url":"http://people.newsccn.com/","type":"new","from":"1","to":"1","saveDir":"aaa","category":"60","appNumber":"decoration","selector":[{"$":"$('.leftList h1 a')","attr":"href"},{"$":"$('.content p')","attr":"href"}],"isPagination":1,"mode":"web"}

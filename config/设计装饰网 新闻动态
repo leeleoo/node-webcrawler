@@ -1,0 +1,1 @@
+{"url":" http://www.zzzx.org.cn/news/list-15.html","type":"new","from":"1","to":"1","charset":"gb2312","saveDir":"ss","category":"81","appNumber":"sj","selector":[{"$":"$('.li_left a ')","attr":"href"},{"$":"$('.MsoNormal span')","attr":"href"}],"isPagination":1,"mode":"web"}

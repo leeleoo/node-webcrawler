@@ -1,0 +1,1 @@
+{"url":"http://www.1198jgj.com/news/jingujianzixun-c32999-1.html","type":"new","from":"1","to":"1","saveDir":"aaa","category":"56","appNumber":"standard","selector":[{"$":"$('.cldl dt a')","attr":"href"},{"$":"$('#content')","attr":"href"}],"isPagination":1,"mode":"web"}

@@ -1,0 +1,1 @@
+{"url":"http://www.cnggzs.com/Item/list.asp?id=1539","type":"new","from":"1","to":"1","saveDir":"ss","category":"87","appNumber":"zs","selector":[{"$":"$('.nlc_tit a')","attr":"href"},{"$":"$('.nlc_info')","attr":"href"}],"isPagination":1,"mode":"web"}

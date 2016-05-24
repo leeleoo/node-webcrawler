@@ -1,0 +1,1 @@
+{"url":"http://www.hnscw.roboo.com/","type":"new","from":"1","to":"1","charset":"gbk","saveDir":"ss","category":"83","appNumber":"sj","selector":[{"$":"$('.list_news_tit a')","attr":"href"},{"$":"$('#article h1')","attr":"href"}],"isPagination":1,"mode":"web"}

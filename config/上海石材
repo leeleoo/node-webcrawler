@@ -1,0 +1,1 @@
+{"url":"http://www.shanghaiscw.roboo.com/web/news/502912.htm","type":"new","from":"1","to":"1","saveDir":"AA","urlSupplement":"http://www.shanghaiscw.roboo.com","category":"96","appNumber":"shicai","selector":[{"$":"$('.content7 a')","attr":"href"},{"$":"$('.pdetail p')","attr":"href"}],"isPagination":1,"mode":"web"}

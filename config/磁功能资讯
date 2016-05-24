@@ -1,0 +1,1 @@
+{"url":"http://www.cgnjkcp.roboo.com/web/news/571791.htm","type":"new","from":"1","to":"1","saveDir":"sss","imageFn":"","urlSupplement":"http://www.cgnjkcp.roboo.com","category":"67","appNumber":"ci","selector":[{"$":"$('.mcontent a')","attr":"href"},{"$":"$('.pdetail p')","attr":"href"}],"isPagination":1,"mode":"web"}

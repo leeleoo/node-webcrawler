@@ -1,0 +1,1 @@
+{"url":"http://news.yuanlin.com/market.htm","type":"new","from":"1","to":"1","charset":"gbk","imageFn":"","urlSupplement":"http://news.yuanlin.com/","category":"102","appNumber":"greening","selector":[{"$":"$(\".PicInList li a\")","attr":"href"},{"$":"$(\"#ArticleCnt p\")","attr":"asdf"}],"isPagination":1,"mode":"web"}

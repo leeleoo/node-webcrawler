@@ -1,0 +1,1 @@
+{"url":"http://www.chinasspp.com/news/cj.html","type":"new","from":"1","to":"1","charset":"gb2312","saveDir":"s","urlSupplement":"http://www.chinasspp.com","category":"78","appNumber":"clothes","selector":[{"$":"$('.m a ')","attr":"href"},{"$":"$('.n_pre_reading p')","attr":"href"}],"isPagination":1,"mode":"web"}

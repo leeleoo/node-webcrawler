@@ -1,0 +1,1 @@
+{"url":"http://www.chinajsq.cn/news/list-163.html","type":"new","from":"1","to":"1","saveDir":"ss","category":"91","appNumber":"water","selector":[{"$":"$('.catlist_li a')","attr":"href"},{"$":"$('.content p')","attr":"href"}],"isPagination":1,"mode":"web"}

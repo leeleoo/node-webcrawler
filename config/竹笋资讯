@@ -1,0 +1,1 @@
+{"url":"http://www.cnzhusun.com/news/list.php?catid=2605","type":"new","from":"1","to":"1","charset":"gbk","saveDir":"ss","category":"99","appNumber":"zhusun","selector":[{"$":"$('.catlist_li a')","attr":"href"},{"$":"$('.content div')","attr":"href"}],"isPagination":1,"mode":"web"}

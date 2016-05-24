@@ -1,0 +1,1 @@
+{"url":"http://www.mengpakezhan.com/lxgl/","type":"new","from":"1","to":"1","saveDir":"ss","urlSupplement":"http://www.mengpakezhan.com","category":"73","appNumber":"inn","selector":[{"$":"$('.list-style-back a')","attr":"href"},{"$":"$('.cnt-text p')","attr":"href"}],"isPagination":1,"mode":"web"}

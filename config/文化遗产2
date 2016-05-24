@@ -1,0 +1,1 @@
+{"url":"http://www.zgfy.org/contentList.asp?classid=16","type":"new","from":"1","to":"1","charset":"gb2312","saveDir":"ss","urlSupplement":"http://www.zgfy.org/","category":"61","appNumber":"culture","selector":[{"$":"$('.list1_title dt a')","attr":"href"},{"$":"$('.content p')","attr":"href"}],"isPagination":1,"mode":"web"}

@@ -1,0 +1,1 @@
+{"url":"http://www.zgbjspw.roboo.com/web/news/414262.htm","type":"new","from":"1","to":"1","saveDir":"ss","urlSupplement":"http://www.zgbjspw.roboo.com","category":"65","appNumber":"food","selector":[{"$":"$('.mcontent a')","attr":"href"},{"$":"$('.content p')","attr":"href"}],"isPagination":1,"mode":"web"}

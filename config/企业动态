@@ -1,0 +1,1 @@
+{"url":"http://www.stonesm.com/news/list-4-p-1.shtml","type":"new","from":"1","to":"1","imageFn":"ss","urlSupplement":"http://www.stonesm.com","category":"86","appNumber":"hn","selector":[{"$":"$('.fl1list a')","attr":"href"},{"$":"$('.left h1')","attr":"href"}],"isPagination":1,"mode":"web"}

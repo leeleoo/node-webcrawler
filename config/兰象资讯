@@ -1,0 +1,1 @@
+{"url":"http://www.wines-info.com/info/news.aspx?cid=2","type":"new","from":"1","to":"3","saveDir":"ss","category":"70","appNumber":"lanxiang","selector":[{"$":"$('.item h3 a')","attr":"href"},{"$":"$('.article-details-info p ')","attr":"href"}],"isPagination":1,"mode":"web"}

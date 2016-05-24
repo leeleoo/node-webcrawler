@@ -1,0 +1,1 @@
+{"url":"http://www.cnzhusun.com/quote/","type":"new","from":"1","to":"1","charset":"gbk","saveDir":"ss","category":"101","appNumber":"zhusun","selector":[{"$":"$('.wznewsline a')","attr":"href"},{"$":"$('.pd20 table')","attr":"href"}],"isPagination":1,"mode":"web"}

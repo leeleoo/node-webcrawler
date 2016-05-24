@@ -1,0 +1,1 @@
+{"url":"http://www.chinasspp.com/news/zh.html","type":"new","from":"1","to":"1","charset":"gb2312","saveDir":"ss","urlSupplement":"http://www.chinasspp.com","category":"77","appNumber":"clothes","selector":[{"$":"$('.n_list a')","attr":"href"},{"$":"$('.n_pre_reading p')","attr":"href"}],"isPagination":1,"mode":"web"}

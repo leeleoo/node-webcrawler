@@ -1,0 +1,1 @@
+{"url":"http://www.cnzicai.com/news.html","type":"new","from":"1","to":"1","charset":"gbk","saveDir":"ff","urlSupplement":"http://www.cnzicai.com","category":"103","appNumber":"greening","selector":[{"$":"$(\".content span.left a\")","attr":"href"},{"$":"$(\".content p\")","attr":"fff"}],"isPagination":1,"mode":"web"}

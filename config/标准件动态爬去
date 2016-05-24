@@ -1,0 +1,1 @@
+{"url":"http://www.1198jgj.com/news/hulianwangzixun-c33005-1.html","type":"new","from":"1","to":"1","saveDir":"嗷嗷嗷","appNumber":"standard","selector":[{"$":"$('.cldl dt a')","attr":"href"},{"$":"$('#content')","attr":"href"}],"isPagination":1,"mode":"web"}

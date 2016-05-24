@@ -1,0 +1,1 @@
+{"url":"http://www.wines-info.com/info/news_gnzh.aspx?cid=8","type":"new","from":"1","to":"1","saveDir":"ss","category":"71","appNumber":"lanxiang","selector":[{"$":"$('.item a')","attr":"href"},{"$":"$('.article-details-info p')","attr":"href"}],"isPagination":1,"mode":"web"}

@@ -1,0 +1,1 @@
+{"url":"http://jiaju.loupan.com/zixun/list-49.html","type":"new","from":"1","to":"1","charset":"gbk","saveDir":"ss","category":"82","appNumber":"sj","selector":[{"$":"$('.list_news_tit a')","attr":"href"},{"$":"$('.summary span')","attr":"href"}],"isPagination":1,"mode":"web"}

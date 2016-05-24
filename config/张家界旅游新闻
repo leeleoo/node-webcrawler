@@ -1,0 +1,1 @@
+{"url":"http://www.zjjnews.cn/travel/news/","type":"new","from":"1","to":"1","saveDir":"ss","urlSupplement":"http://www.zjjnews.cn","category":"75","appNumber":"inn","selector":[{"$":"$('#list_main li a ')","attr":"href"},{"$":"$('#list_news h1')","attr":"href"}],"isPagination":1,"mode":"web"}

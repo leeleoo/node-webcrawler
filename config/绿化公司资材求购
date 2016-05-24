@@ -1,0 +1,1 @@
+{"url":"http://www.cnzicai.com/news.html","type":"new","from":"1","to":"1","charset":"gbk","category":"104","appNumber":"greening","selector":[{"$":"$(\".nwes_zcqg a\")","attr":"href"},{"$":"$(\".detail_cont_box p\")","attr":"hhh"}],"isPagination":1,"mode":"web"}
